@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "maruti_car_images_maruti_suzuki_swift_rs_car_2013_2013_price_in_karachi_lahore_pKarmq.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "maruti_car_images_maruti_suzuki_swift_rs_car_2013_2013_price_in_karachi_lahore_pKarmq@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "maruti_car_images_maruti_suzuki_swift_rs_car_2013_2013_price_in_karachi_lahore_pKarmq@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
